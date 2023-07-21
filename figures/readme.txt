@@ -1,0 +1,1 @@
+This directory contains all the visualizations generated during the project. The figures are saved in PNG format and are named according to the script and the stage of the project they were generated in.
