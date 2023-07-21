@@ -1,0 +1,1 @@
+This directory contains all the documentation for the project, including the project proposal and the final report. The documents are written in Markdown and any images used in the documents are also stored in this directory.
