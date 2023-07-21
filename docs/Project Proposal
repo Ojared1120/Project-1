@@ -1,0 +1,30 @@
+Project Title: Sales Performance Analysis for ADIDAS Retail Sales by Major Retailer (US)
+
+Team: Jared Owen, Kyle Beerden, & Sara Cunningham
+
+Objective: The main objective of this project is to understand sales trends and derive insights to improve sales performance. We will be analyzing sales data with major US retailers to determine which retailer we would recommend ADIDAS apply more focus through their 3rd party merchant relationship development pipeline. We would also be looking to provide insights on product type by region, to provide investment recommendations in product types. 
+
+Data: ADIDAS Sales Data obtained through Kaggle for sales for 2020 and 2021 to major US retailers and US Census Data. 
+
+Our Process: 
+1. Data Cleaning and Preprocessing: We will be organizing the data into separate datasets based on what we plan to analyze. 
+	
+2. Exploratory Data Analysis (EDA): Exploring the data to understand sales trends. Some questions we plan to answer are:
+	• What are overall sales trends by region and by state?
+	• What are overall sales trends by sales method (In-Store, Outlet, Online)?
+	• Volume of sales by product category?
+		- Which is the most profitable product category?
+	• What is the most profitable states by sales totals compared to US census data?
+	• Which retailer is performing best by region? To determine which retailer is most profitable. 
+
+3. Data Visualization: We will visualize our findings using different types of plots like line plots, bar plots, pie charts, and map visualizations. As an example of our data visualization plans, we plan to use a heat map type visualization for regional sales by volume. 
+	
+4. API Usage: US Census API and Geoapify API to get population data for comparison. 
+
+5. Insights and Recommendations: Based on our analysis, we will provide insights and recommendations to improve the sales performance and recommendations based on retailers.
+
+GitHub and README: We will upload our complete analysis to GitHub. We will include a README file that contains ample and complete information about our project, including the objective, data, methodology, findings, and our final conclusions/recommendations. 
+
+Group Presentation: We will prepare a 10 minute group presentation to present our findings to the class. 
+
+Slide Deck: To go with our presentation, we will prepare a slide deck that will effectively demonstrate our data, findings, and recommendations. 
