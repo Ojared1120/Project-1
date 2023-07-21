@@ -1,0 +1,1 @@
+This directory contains all the Python scripts and Jupyter notebooks used in this project. The scripts are organized by the stage of the project they belong to (e.g., data cleaning, exploratory analysis, modeling).
