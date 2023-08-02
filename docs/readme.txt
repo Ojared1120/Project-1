@@ -8,24 +8,23 @@ Data Analysis Responsibilities:
 			- Data set 2 - 5 CSVs for each region (Northeast, Southeast, South, Midwest, West)
 			- Data set 3 - 3 CSVs sorted out by sales method (In-Store, Outlet, Online)
 		      ○ We will have a separate folder for merged data
-			- Data set 4 - Sales data by state merged with population data from the census 
+			- Data set 4 - Sales data by state 
 	
 	• Exploratory Data Analysis (EDA): Perform in-depth EDA to understand sales trends by region, state, sales method, and product category. This will include utilization of US Census Data API. We will be answering the following questions:
 		○ What are overall sales trends by region and by state? - Kyle
 		○ What are overall sales trends by sales method (In-Store, Outlet, Online)? - Sara
 		○ Volume of sales by product category? - Jared
-			§ Which is the most profitable product category?
+			- Which is the most profitable product category?
 		○ What is the most profitable states by sales totals compared to US census data? - Primary: Jared; Secondary: Sara; Group will work through this together
 		○ Which retailer is performing best by region? To determine which retailer is most profitable. - Kyle
-			
-			* API Usage: We will be utilizing the US Census API and Geoapify API to fetch population data and incorporate it into the analysis for comparison.
 	
 	• Data Visualization: Create various plots like line plots, bar plots, pie charts, and map visualizations to effectively present the findings. Specifically, focus on creating the heat map visualization for regional sales by volume.
-		○ Question 1 - heat map - Group
-		○ Question 2 - bar chart  - Sara
-		○ Question 3 - pie chart - Jared
-		○ Question 4 - histogram - Group
-		○ Question 5 - bar charts by region - Kyle/Group
+		○ Question 1 - totals by region - bar chart
+			- heat map by region - map with large to small dots based on sales totals
+		○ Question 2 - totals by retailer - bar chart (?)
+		○ Question 3 - totals by product type - pie chart
+		○ Question 4 - totals by sales method type - pie chart
+		○ Question 5 - highest retailer by region - pie
 	
 	• GitHub and README: We will upload the complete analysis to GitHub and create a detailed README file covering the project's objective, data, methodology, findings, and conclusions/recommendations. We will also include task tracking and documenting who on the team did what.
 	
