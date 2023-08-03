@@ -1,0 +1,65 @@
+Business Analysis Report of Sales Data for ADIDAS in the US
+
+Executive Summary
+This business analysis report provides an in-depth analysis of ADIDAS's sales data in the United States. The data covers the past year, including quarterly and annual sales performance. The objective of this analysis is to identify trends, opportunities, and challenges in ADIDAS's sales performance in the US market. Key performance indicators (KPIs) such as revenue, units sold, and market share are evaluated to provide valuable insights for strategic decision-making.
+
+Introduction
+ADIDAS is a renowned global sportswear and athletic footwear brand. The United States represents a crucial market for the company due to its size, diversity, and demand for athletic products. This analysis aims to present a comprehensive overview of ADIDAS's sales performance and market position in the US.
+
+Methodology
+The analysis is based on the examination of sales data obtained via Kaggle of ADIDAS sales for the US market for 2020 and 2021. Annual sales figures, units sold, and market share data by 3rd party merchant are utilized. Additionally, external US census research is referenced to gain a broader understanding of the competitive landscape and overall sales trends for ADIDAS.
+
+Key Findings
+a) Overall Sales Performance:
+- ADIDAS experienced extreme sales growth in the US market from 2020 to 2021.
+	• Sales totals for the US for 2020 were $182,080,675.00 and $717,821,450.00 in 2021.
+- Yearly revenue dramatically increased, indicating a positive sales trend.
+- Strong demand for athletic footwear and apparel contributed to sales growth.
+- ADIDAS maintained a competitive market share in the US, facing tough competition from other major sportswear brands.
+
+b) Sales by 3rd Party Merchant:
+-West Gear, Foot Locker, and Sports Direct were the leaders in terms of sales for 2020 and 2021.
+-Kohl's, Amazon, and Walmart had the lowest numbers for sales in 2020 and 2021.
+-Each merchant surprisingly did not perform the same in each region, with Foot Locker showing to have the highest sales for 3 out of the 5 US regions, but was not the overall highest performing merchant in terms of sales.
+-West Gear was the highest performing merchant by overall sales, but was the high performing in only one region.
+
+c) Product Performance:
+- Men's street footwear remained the top-performing category, followed closely by women's apparel.
+- There is room for serious sales growth in the men's apparel product category, as this was the smallest total sales category by product type.
+
+d) Sales by Sales Method (Online, In-Store, Outlet):
+- E-commerce sales witnessed significant growth, indicating a shift in consumer preferences towards online shopping.
+- ADIDAS's online platforms and partnerships with major retailers with robust online shopping platforms have driven e-commerce sales.
+-Half of all US sales for 2020 and 2021 combined were online, indicating that this is the preferred purchase method for consumers for this time period.
+-In-store sales are by far the lowest category of sales with only 18% of all sales for 2020 and 2021.
+-3rd party outlet sales outperformed in-store sales, at 31% for 2020 and 2021.
+
+e) Regional Analysis:
+- Certain regions within the US showed higher sales growth rates, suggesting potential regional marketing strategies.
+- Urban centers and densely populated areas demonstrated stronger demand for ADIDAS products.
+-Sales in the West region far exceeded that of the remainder of the country.
+
+
+Opportunities and Challenges
+a) Opportunities:
+- Expansion of the product range to cater to emerging fitness trends and athleisure demand.
+- Deeper collaboration with merchants with the highest sales totals to enhance brand visibility and reach new customer segments.
+- Strengthening partnerships with key retailers and e-commerce platforms to further boost online sales.
+- Leveraging sustainability initiatives to resonate with environmentally conscious consumers.
+
+b) Challenges:
+- Intense competition from rival brands, requiring a constant focus on product differentiation and marketing strategies.
+- Fluctuations in consumer preferences and fashion trends impacting demand for specific products.
+- The need to strike a balance between traditional retail and e-commerce strategies to optimize sales channels.
+
+Recommendations
+Based on the analysis, the following recommendations are proposed:
+- Invest in research and development to continuously innovate and offer more options in the apparel categories.
+- Strengthen marketing efforts during major sporting events to maximize sales opportunities.
+- Engage in strategic collaborations with key influencers and athletes to expand brand reach, particularly in the Southeast, Northeast, and Midwest.
+- Enhance sustainability efforts to appeal to environmentally conscious consumers.
+
+Conclusion
+ADIDAS's sales data analysis for the US reveals a positive growth trajectory, maintaining a competitive position in the market. By capitalizing on opportunities, addressing challenges, and strategically leveraging its brand strengths, ADIDAS can further solidify its position and capture new market segments. Regular monitoring and adaptation to market dynamics will be crucial for sustained success in the highly competitive US sportswear market.
+
+*Note: The data and findings presented in this analysis are based on the information for 2020 and 2021, and future developments may influence the business landscape for ADIDAS in the US.*
